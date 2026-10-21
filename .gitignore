@@ -1,0 +1,20 @@
+# Local notes and archive pointers
+/旧版归档位置.txt
+/打开与使用说明.txt
+/网站骨架与交互.md
+/tmp-preview/
+/archive/
+
+# Dependencies and local configuration
+node_modules/
+.env
+.env.*
+!.env.example
+.codex/
+.vscode/
+
+# OS and temporary files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
